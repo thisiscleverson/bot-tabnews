@@ -1,0 +1,3 @@
+requests>=2.22.0
+requests-futures>=1.0.0
+tabnews>=1.1.0
